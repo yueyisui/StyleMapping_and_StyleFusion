@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "download_url": null,
+  "archive_name": "stylemapping-stylefusion-checkpoints.tar.gz",
+  "archive_sha256": "98122b57010619168dbc5eb32592356e2d650687bd5907ea35f52d127e69fa60",
+  "files": [
+    {
+      "path": "style_fusion/experiments/DWTFusionNet_content_size=1024_l1+all_loss/StyleFusion_iter_100000.pth.tar",
+      "sha256": "9556d8af0b25fedbf4d6d3b7ffbb12e1ff77c731aed3c59789ba2375d5a6ce3f",
+      "required_for_inference": true
+    },
+    {
+      "path": "style_fusion/experiments/DWTFusionNet_content_size=1024_l1+all_loss2/StyleFusion_iter_100000.pth.tar",
+      "sha256": "7c67f39ec834cdcf7f0ee2c7a70814934219f8516b14b5e41a8b909d5b117f8c",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_fusion/experiments/DWTFusionNet_content_size=1024_l1loss/StyleFusion_iter_50000.pth.tar",
+      "sha256": "e574b3685d9252b1657e641a63e7ef83647707dfe21815df1b12612364639e4c",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_fusion/experiments/DWTFusionNet_content_size=1024_mseloss/StyleFusion_iter_50000.pth.tar",
+      "sha256": "efe09838aca8560f50b3bd0c6ed3466746cfba3dc68d7a2d62db89632c7541f2",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_fusion/experiments/DWTFusionNet_content_size=2048_l1+all_loss/StyleFusion_iter_100000.pth.tar",
+      "sha256": "d6e27f43b1392c60686ec3bf84a1e3c9c70b6e6a429d7ecdffa05bdf6829a749",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_fusion/experiments/DWTFusionNet_content_size=2048_l1+all_loss_test/StyleFusion_iter_200000.pth.tar",
+      "sha256": "9d2cabb8d93edccbc124863764e5d47da4c762168734550b200c7c5cebc2e28e",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_fusion/experiments/DWTFusionNet_content_size=2048_l1loss/StyleFusion_iter_100000.pth.tar",
+      "sha256": "a16c9df6de783d59d8da9e16887b1b8744b60c4d2bb8e3beb7e2a380e7d1dd18",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_fusion/experiments/FusionNet_content_size=1024_l1+all_loss/StyleFusion_iter_100000.pth.tar",
+      "sha256": "d78d0917fbb02c05dab42c56781004d4f676c85a61c62360ef7ceaf3ba325881",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_fusion/experiments/photorealistic/NDNSMDecoder_iter_160000.pth.tar",
+      "sha256": "e90dca96790c6ca3a261728842cea70262f10fc9a1a85392c02d596d9840b5c8",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_fusion/experiments/photorealistic/mlp_iter_160000.pth.tar",
+      "sha256": "f49ac8bfaa6922b5864a6dd55582152523d80c704e5f85225e50fd93d0da6cba",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_fusion/experiments/photorealistic_remote_sence/NDNSMDecoder_iter_160000.pth.tar",
+      "sha256": "44ba8a86785d7b267ab9e9702b0fe383c0317cec92ffdc7a96588768d4a120cf",
+      "required_for_inference": true
+    },
+    {
+      "path": "style_fusion/experiments/photorealistic_remote_sence/mlp_iter_160000.pth.tar",
+      "sha256": "f90f475c4bef8105330d4482e3084938d92fbdd36efec3dc324ea36dd3278c29",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_fusion/models/vgg_normalised.pth",
+      "sha256": "804ca2835ecf7539f0cd2a7ac3c18ce81e6f8468969ae7117ac0c148d286bb4a",
+      "required_for_inference": true
+    },
+    {
+      "path": "style_mapping/experiments/DIOR/NDNSMDecoder.pth.tar",
+      "sha256": "44ba8a86785d7b267ab9e9702b0fe383c0317cec92ffdc7a96588768d4a120cf",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_mapping/experiments/DIOR/mlp_iter_160000.pth.tar",
+      "sha256": "f90f475c4bef8105330d4482e3084938d92fbdd36efec3dc324ea36dd3278c29",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_mapping/experiments/artistic/NDNSMDecoder.pth.tar",
+      "sha256": "6669ab002368c19f152633b4e05b7276b87e6cfe91f7996294a177e710140561",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_mapping/experiments/photorealistic/NDNSMDecoder.pth.tar",
+      "sha256": "e90dca96790c6ca3a261728842cea70262f10fc9a1a85392c02d596d9840b5c8",
+      "required_for_inference": false
+    },
+    {
+      "path": "style_mapping/models/vgg_normalised.pth",
+      "sha256": "804ca2835ecf7539f0cd2a7ac3c18ce81e6f8468969ae7117ac0c148d286bb4a",
+      "required_for_inference": false
+    }
+  ]
+}

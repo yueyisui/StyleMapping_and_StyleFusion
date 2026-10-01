@@ -1,0 +1,12 @@
+imageio>=2.31,<3
+lpips>=0.1.4,<0.2
+matplotlib>=3.4,<4
+numpy>=1.24,<2
+opencv-python-headless>=4.9,<5
+Pillow>=9.5,<12
+scipy>=1.10,<2
+seaborn>=0.13,<1
+tensorboardX>=2.6,<3
+torch>=1.13,<3
+torchvision>=0.14,<1
+tqdm>=4.66,<5
