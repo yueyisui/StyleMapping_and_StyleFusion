@@ -32,6 +32,13 @@ Style Transfer**（IEEE TGRS 2026，DOI:
 
 ## 环境安装
 
+首先克隆代码仓库并进入项目目录：
+
+```bash
+git clone https://github.com/yueyisui/StyleMapping_and_StyleFusion.git
+cd StyleMapping_and_StyleFusion
+```
+
 论文实验环境为 Ubuntu 22.04、单张 NVIDIA RTX 3090。原 StyleMapping
 依赖记录为 PyTorch 1.13.1 / torchvision 0.14.1（CUDA 11.7）。建议使用 Python
 3.8–3.10 创建独立环境（统一入口兼容 Python 3.8+）：

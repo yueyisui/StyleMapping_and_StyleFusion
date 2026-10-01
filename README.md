@@ -100,6 +100,13 @@ restores local structures after global StyleMapping processing.
 
 ## Installation
 
+Clone the source repository:
+
+```bash
+git clone https://github.com/yueyisui/StyleMapping_and_StyleFusion.git
+cd StyleMapping_and_StyleFusion
+```
+
 The experiments in the paper were conducted on Ubuntu 22.04 with one NVIDIA
 RTX 3090 GPU. Python 3.8–3.10 is recommended.
 
